@@ -35,7 +35,7 @@ Filenames are the same but some parameters and rule of cutting loss are changed 
 # Data
 
 Datafile can be found here:
-
+https://drive.google.com/file/d/1usrowrJPMkVNs-dV11mx8Z6LffEsx444/view?usp=sharing
 
 # Training phase results
 
