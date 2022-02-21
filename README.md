@@ -39,6 +39,7 @@ https://drive.google.com/file/d/1usrowrJPMkVNs-dV11mx8Z6LffEsx444/view?usp=shari
 
 # Training phase results
 
+Red line is the moving average.
 <img src="src/training.png">
 
 # Test phase results
