@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1usrowrJPMkVNs-dV11mx8Z6LffEsx444/view?usp=shari
 # Training phase results
 
 <img src="src/training.png">
-Fig.1 rewad-game graph in Training phase results (Red line is the moving average.)
+Fig.1 reward-game graph in Training phase results (Red line is the moving average.)
 
 # Test phase results
 
