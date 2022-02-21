@@ -28,6 +28,8 @@ stock_RL.py  : RL Agent
 
 stock_master.py  : Main file 
 
+cal_success.py : Turn result into .csv file
+
 # Test phase file (01_test)
 
 Filenames are the same but some parameters and rule of cutting loss are changed and implemented.
