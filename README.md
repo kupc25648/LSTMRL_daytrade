@@ -4,7 +4,7 @@ This program is An LSTM Actor-Critic agent is trained to do the stock day-tradin
 
 Freatures fed into the agent as State in MDP are pnormalized value of price, volume and some features made from Ichimoku method.
 
-The agent is train for 13000 games and can improve its policy (see, Fig.1 rewad-game graph in Training phase results).
+The agent is train for 13,000 games and can improve its policy (see, Fig.1 rewad-game graph in Training phase results).
 
 The trained agent is test on test data, and can make around 15% profit on average (see, Fig.2 Test phase results).
 
@@ -14,7 +14,7 @@ Also you can contact me at kupc25648@hotmail.com | kupc25648@gmail.com
 
 
 # File descriptions
-# Training phase file
+# Training phase file (00_train)
 
 ichimoku.py  : File for creating Ichimoku cloud and some data cleansing  which will be turned into State data 
 
@@ -26,7 +26,7 @@ stock_RL.py  : RL Agent
 
 stock_master.py  : Main file 
 
-# Test phase file
+# Test phase file (01_test)
 
 Filenames are the same but some parameters and rule of cutting loss are changed and implemented.
 
