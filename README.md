@@ -42,12 +42,12 @@ Fig.1 rewad-game graph in Training phase results (Red line is the moving average
 
 # Test phase results
 
-Test result scheme 1
+# Test result scheme 1
 
 <img src="src/test_1.png">
 Fig.2a Test phase results scheme 1
 
-Test result scheme 2
+# Test result scheme 2
 
 <img src="src/test_2.png">
 Fig.2b Test phase results scheme 2
