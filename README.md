@@ -8,6 +8,8 @@ The agent is train for 13,000 games and can improve its policy (see, Fig.1 rewad
 
 The trained agent is test on test data, and can make around 15% profit on average (see, Fig.2 Test phase results).
 
+- actiually there are 2 test scheme (1 and 2) the test scheme 1 yield is 15% with around 56% loss days and the test scheme 2 yield is 61% with around 61% loss days 
+
 However, my current data size (aroud 2-3 months) is very small, pleas feel free to try on the larger data.
 
 Also you can contact me at kupc25648@hotmail.com | kupc25648@gmail.com
@@ -37,7 +39,15 @@ Datafile can be found here:
 
 # Training phase results
 
+<img src="src/training.png">
 
 # Test phase results
 
+Test result scheme 1
+
+<img src="src/test_1.png">
+
+Test result scheme 2
+
+<img src="src/test_2.png">
 
