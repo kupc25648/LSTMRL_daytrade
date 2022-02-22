@@ -4,9 +4,9 @@ This program is an LSTM Actor-Critic agent trained to do the stock day-trading t
 
 Freatures fed into the agent as State in MDP are normalized value of price, volume and some features made from Japanese Ichimoku method.
 
-The agent is trained for 13,000 games and can improve its policy (see, Fig.1 rewrad-game graph in Training phase results).
+The agent is trained for 13,000 games and can improve its policy (see, Fig.1 reward-game graph in Training phase results).
 
-The trained agent is test on test data, and can make around 15% profit on average (see, Fig.2a,2b Test phase results). There are 2 test scheme (1 and 2) the test scheme 1 yield is 15% with around 56% loss days and the test scheme 2 yield is 61% with around 61% loss days. However, my current data size (aroud 2-3 months) is very small, please feel free to try on larger one.
+The trained agent is test on test data, and can make around 15% profit on average (see, Fig.2a,2b Test phase results). There are 2 test scheme (1 and 2) the test scheme 1 yield is 15% with around 56% loss days and the test scheme 2 yield is 61% with around 61% loss days. However, my current data size (aroud 2-3 months) is very small, please feel free to try on the larger one.
 
 Also you can contact me at kupc25648@hotmail.com | kupc25648@gmail.com
 
